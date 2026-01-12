@@ -8,6 +8,7 @@ public class Mainclass1 {
 		Shop.payment(dc);
 		CreditCard cd = new CreditCard();
 		Shop.payment(cd);
+		System.out.println("------------------");
 	}
 
-}
+}	
